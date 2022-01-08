@@ -1,0 +1,81 @@
+{
+  "namespace": "death",
+  "death_screen_content": {
+    "type": "panel",
+    "controls": [
+      {
+        "death_screen_buttons_and_stuff": {
+          "type": "panel",
+          "controls": [
+            {
+              "you_died_label": {
+                "type": "label",
+                "color": "$death_text_color",
+                "anchor_from": "top_middle",
+                "anchor_to": "top_middle",
+                "offset": [
+                  0,
+                  "25%"
+                ],
+                "text": "deathScreen.message",
+                "shadow": true,
+                "font_size": "large"
+              }
+            },
+            {
+              "respawn_button@common_buttons.light_text_button": {
+                "size": [
+                  "25%",
+                  26
+                ],
+                "$button_text": "deathScreen.respawn",
+                "anchor_from": "center",
+                "anchor_to": "center",
+                "offset": [
+                  0,
+                  0
+                ],
+                "$pressed_button_name": "button.respawn_button",
+                "bindings": [
+                  {
+                    "binding_name": "#respawn_enabled",
+                    "binding_name_override": "#enabled"
+                  }
+                ]
+              }
+            },
+            {
+              "select_button@death.a_button_panel": {}
+            }
+          ],
+          "bindings": [
+            {
+              "binding_name": "#buttons_and_deathmessage_visible",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      },
+      {
+        "loading_label": {
+          "type": "label",
+          "color": "$title_command_text_color",
+          "anchor_from": "top_middle",
+          "anchor_to": "top_middle",
+          "offset": [
+            0,
+            "85%"
+          ],
+          "text": "progressScreen.generating",
+          "font_size": "normal",
+          "bindings": [
+            {
+              "binding_name": "#loading_message_visible",
+              "binding_name_override": "#visible"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Official Texturepack of the SlimeUnity Network",
+        "name": "SlimeUnity",
+        "uuid": "7869b6b6-048e-4f12-b583-b0e52caa37f4",
+        "version": [
+            1,
+            0,
+            7
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "e252ed55-5aff-46d3-bfb5-5098970faff0",
+            "version": [
+                1,
+                0,
+                7
+            ]
+        }
+    ]
+}

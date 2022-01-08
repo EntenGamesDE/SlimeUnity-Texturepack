@@ -1,0 +1,83 @@
+{
+   "format_version" : "1.14.0",
+   "sound_definitions" : {
+      "slimeparty.record.blocks" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/blocks"
+         ]
+      },
+      "slimeparty.record.cat" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/cat"
+         ]
+      },
+      "slimeparty.record.chirp" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/chirp"
+         ]
+      },
+      "slimeparty.record.far" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/far"
+         ]
+      },
+      "slimeparty.record.mall" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/mall"
+         ]
+      },
+      "slimeparty.record.mellohi" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/mellohi"
+         ]
+      },
+      "slimeparty.record.pigstep" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/pigstep_master"
+         ]
+      },
+      "slimeparty.record.stal" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/stal"
+         ]
+      },
+      "slimeparty.record.strad" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/strad"
+         ]
+      },
+      "slimeparty.record.wait" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/wait"
+         ]
+      },
+      "slimeparty.record.ward" : {
+         "category" : "record",
+         "sounds" : [
+            "sounds/music/game/records/ward"
+         ]
+      },
+      "one.trillion.views.celebration": {
+         "category": "custom",
+         "sounds": [
+            "sounds/custom/one_trillion_views_remix"
+         ]
+      },
+      "ui.toast.challenge_complete": {
+         "category": "custom",
+         "sounds": [
+            "sounds/custom/ui_toast_challenge_complete"
+         ]
+      }
+   }
+}
