@@ -67,10 +67,10 @@
             "sounds/music/game/records/ward"
          ]
       },
-      "one.trillion.views.celebration": {
+      "party.blower": {
          "category": "custom",
          "sounds": [
-            "sounds/custom/one_trillion_views_remix"
+            "sounds/custom/party_blower"
          ]
       },
       "ui.toast.challenge_complete": {
