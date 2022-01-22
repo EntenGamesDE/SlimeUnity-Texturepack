@@ -1,7 +1,7 @@
 {
   "format_version": "1.8.0",
   "render_controllers": {
-    "slimeunitydefault": {
+    "controller.render.slimeunitydefault": {
       "geometry": "Geometry.default",
       "materials": [ { "*": "Material.default" }],
       "textures": [ "Texture.default" ]
