@@ -40,14 +40,16 @@
 > Twitter: https://twitter.com/XenialDan
 > 
 > GitHub: https://github.com/thebigsmileXD
-> 
-> Project: WolvesFortress
->   > Discord: https://discord.com/invite/Vh7Usbs
->   > 
->   > Twitter: https://twitter.com/wolvesfortress
 >
 > Helped with custom entities!
 
+
+##
+
+### This project was supported by @WolvesFortress
+> Discord: WolvesFortress.de
+> 
+> Twitter: https://twitter.com/WolvesFortress
 
 ## Important:
 > This texture pack was released to give you the opportunity to learn something from our work.
