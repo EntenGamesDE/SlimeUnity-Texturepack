@@ -11,6 +11,8 @@
 > 
 > Twitter: https://twitter.com/Matze998
 > 
+> GitHub: https://github.com/Matze997
+> 
 > Created the texture pack and made everything work in-game!
 
 
@@ -25,6 +27,26 @@
 > Twitter: https://twitter.com/Karl0862802599
 > 
 > Created awesome 3D models for this texturepack!
+
+
+##
+
+#### XenialDan
+
+> Discord: inxomnia#5713
+>
+> YouTube: https://www.youtube.com/channel/UC3yiZeKV3X2fxmIe8PcAa2w
+>
+> Twitter: https://twitter.com/XenialDan
+> 
+> GitHub: https://github.com/thebigsmileXD
+> 
+> Project: WolvesFortress
+>   > Discord: https://discord.com/invite/Vh7Usbs
+>   > 
+>   > Twitter: https://twitter.com/wolvesfortress
+>
+> Helped with custom entities!
 
 
 ## Important:
