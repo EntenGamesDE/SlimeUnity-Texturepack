@@ -31,21 +31,6 @@
 
 ##
 
-#### XenialDan
-
-> Discord: inxomnia#5713
->
-> YouTube: https://www.youtube.com/channel/UC3yiZeKV3X2fxmIe8PcAa2w
->
-> Twitter: https://twitter.com/XenialDan
-> 
-> GitHub: https://github.com/thebigsmileXD
->
-> Helped with custom entities!
-
-
-##
-
 ### This project was supported by [@WolvesFortress](https://github.com/WolvesFortress)
 > Discord: http://wolvesfortress.de
 > 
