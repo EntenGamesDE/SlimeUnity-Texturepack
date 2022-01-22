@@ -11,7 +11,6 @@ Twitter: https://twitter.com/Matze998
 Created the texturepack and got everything working in the game!
 
 
-
 ### Karl08
 Discord: Karl08#2182
 YouTube: https://www.youtube.com/channel/UCMf850wQz4lqKvDrQiTu4Tg
