@@ -46,8 +46,8 @@
 
 ##
 
-### This project was supported by @WolvesFortress
-> Discord: WolvesFortress.de
+### This project was supported by [@WolvesFortress](https://github.com/WolvesFortress)
+> Discord: http://wolvesfortress.de
 > 
 > Twitter: https://twitter.com/WolvesFortress
 
