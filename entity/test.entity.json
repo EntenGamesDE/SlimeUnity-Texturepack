@@ -8,8 +8,7 @@
       },
       "geometry": {
         "default": "geometry.test"
-      },
-      "render_controllers": [ "controller.render.default" ]
+      }
     }
   }
 }
