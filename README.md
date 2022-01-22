@@ -24,7 +24,7 @@
 > 
 > Twitter: https://twitter.com/Karl0862802599
 > 
-> Created awesome 3D models for this texturepack!
+> Created awesome 3D models for this texture pack!
 
 
 ## Important:
