@@ -6,6 +6,8 @@
 #### Matze
 
 > Discord: Matze#1754
+>
+> YouTube: https://www.youtube.com/channel/UCacxtvUdzW1MPPJG0J3oi_Q
 > 
 > Twitter: https://twitter.com/Matze998
 > 
