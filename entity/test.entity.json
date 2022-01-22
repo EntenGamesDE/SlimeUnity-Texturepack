@@ -9,7 +9,7 @@
       "geometry": {
         "default": "geometry.test"
       },
-      "render_controllers": [ "controller.render.slimeunitydefault" ]
+      "render_controllers": [ "slimeunitydefault" ]
     }
   }
 }
