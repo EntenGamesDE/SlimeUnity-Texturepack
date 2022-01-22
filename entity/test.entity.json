@@ -9,10 +9,9 @@
       "geometry": {
         "default": "geometry.test"
       },
-      "animation_controllers": [
-        { "look_at_target": "controller.animation.humanoid.look_at_target" },
-        { "base_pose": "controller.animation.humanoid.base_pose" }
-      ],
+      "materials": {
+        "default": "entity_alphatest"
+      },
       "render_controllers": [ "controller.render.default" ]
     }
   }
