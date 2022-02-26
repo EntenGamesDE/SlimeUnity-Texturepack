@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "slimeunity:slimeparty_incryption",
+      "textures": {
+        "default": "textures/entity/slimeparty_incryption"
+      },
+      "geometry": {
+        "default": "geometry.slimeparty_incryption"
+      },
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [ "controller.render.default" ]
+    }
+  }
+}
