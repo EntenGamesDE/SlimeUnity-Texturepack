@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "slimeunity:skyblock_incryption",
+      "textures": {
+        "default": "textures/entity/skyblock_incryption"
+      },
+      "geometry": {
+        "default": "geometry.skyblock_incryption"
+      },
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [ "controller.render.default" ]
+    }
+  }
+}

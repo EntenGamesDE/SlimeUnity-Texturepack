@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "slimeunity:citybuild_npc",
+      "textures": {
+        "default": "textures/entity/citybuild_npc"
+      },
+      "geometry": {
+        "default": "geometry.citybuild_npc"
+      },
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [ "controller.render.default" ]
+    }
+  }
+}
