@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "slimeunity:lobby_logo",
+      "textures": {
+        "default": "textures/entity/lobby_logo"
+      },
+      "geometry": {
+        "default": "geometry.lobby_logo"
+      },
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "render_controllers": [ "controller.render.default" ]
+    }
+  }
+}
